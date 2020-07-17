@@ -9,3 +9,4 @@ git log
 git show Cid
 git reset head filename
 git reset --mixed Cid
+test line from master1 branch!!!!!!!
