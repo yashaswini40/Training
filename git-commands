@@ -9,3 +9,5 @@ git log
 git show Cid
 git reset head filename
 git reset --mixed Cid
+Hello All Good Morining master branch
+
