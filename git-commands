@@ -10,5 +10,4 @@ git show Cid
 git reset head filename
 git reset --mixed Cid
 Hello All Good Morining master branch
-test line from master1 branch!!!!!!!
-@@@@@@@@
+test line from master1 branch!!!!!!
